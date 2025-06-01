@@ -1,0 +1,83 @@
+Rufus x64 v4.7.2231 (Portable)
+Windows version: Windows 10 Home x64 (Build 19045.5371)
+Syslinux versions: 4.07/2013-07-25, 6.04/pre1
+Grub versions: 0.4.6a, 2.12
+System locale ID: 0x0409 (en-US)
+Will use default UI locale 0x0409
+SetLGP: Successfully set NoDriveTypeAutorun policy to 0x0000009E
+Localization set to 'en-US'
+Found USB device 'SDHC Card' (????:????)
+1 device found
+Disk type: Removable, Disk size: 16 GB, Sector size: 512 bytes
+Cylinders: 1921, Tracks per cylinder: 255, Sectors per track: 63
+Partition type: MBR, NB Partitions: 1
+Disk ID: 0x35F4838A
+Drive has an unknown Master Boot Record
+Partition 1:
+  Type: FAT32 (0x0b)
+  Detected File System: FAT32
+  Size: 14.7 GB (15802040320 bytes)
+  Start Sector: 2048, Boot: No
+Found 5 additional UEFI revocation filters from remote SBAT
+
+Image provided: 'C:\Users\Niko\Desktop\ArkOS_R35S-R36S_v2.0_05152025.img'
+Scanning image...
+ISO analysis:
+  'C:\Users\Niko\Desktop\ArkOS_R35S-R36S_v2.0_05152025.img' doesn't look like an ISO image
+Disk image analysis:
+  Image has an unknown Master Boot Record
+  Image is a bootable disk image
+Using image: ArkOS_R35S-R36S_v2.0_05152025.img (7.4 GB)
+
+Format operation started
+Requesting disk access...
+Will use 'G:' as volume mountpoint
+Opened \\.\PhysicalDrive1 for exclusive write access
+Requesting logical volume handle...
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Opened \\.\PhysicalDrive1 for shared write access
+
+Found USB device 'SDHC Card' (????:????)
+1 device found
+Disk type: Removable, Disk size: 16 GB, Sector size: 512 bytes
+Cylinders: 1921, Tracks per cylinder: 255, Sectors per track: 63
+Partition type: MBR, NB Partitions: 3
+Disk ID: 0xC9F931C9
+Drive has an unknown Master Boot Record
+Partition 1:
+  Type: FAT32 (0x0b)
+  Detected File System: FAT32
+  Size: 112 MB (117440512 bytes)
+  Start Sector: 32768, Boot: No
+Partition 2:
+  Type: GNU/Linux (0x83)
+  Detected File System: ext4
+  Size: 6.5 GB (7025459200 bytes)
+  Start Sector: 262144, Boot: No
+Partition 3:
+  Type: NTFS (0x07)
+  Detected File System: NTFS
+  Size: 752 MB (788529152 bytes)
+  Start Sector: 13983744, Boot: No
+Found USB device 'SDHC Card' (????:????)
+1 device found
+Disk type: Removable, Disk size: 16 GB, Sector size: 512 bytes
+Cylinders: 1921, Tracks per cylinder: 255, Sectors per track: 63
+Partition type: MBR, NB Partitions: 3
+Disk ID: 0xC9F931C9
+Drive has an unknown Master Boot Record
+Partition 1:
+  Type: FAT32 (0x0b)
+  Detected File System: FAT32
+  Size: 112 MB (117440512 bytes)
+  Start Sector: 32768, Boot: No
+Partition 2:
+  Type: GNU/Linux (0x83)
+  Detected File System: ext4
+  Size: 6.5 GB (7025459200 bytes)
+  Start Sector: 262144, Boot: No
+Partition 3:
+  Type: NTFS (0x07)
+  Detected File System: NTFS
+  Size: 752 MB (788529152 bytes)
+  Start Sector: 13983744, Boot: No
